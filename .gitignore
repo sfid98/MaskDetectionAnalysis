@@ -1,6 +1,6 @@
 # created by virtualenv automatically
 
-./env
-./include
-./Lib
-./Scripts
+./env/*
+./include/*
+./Lib/*
+./Scripts/*
