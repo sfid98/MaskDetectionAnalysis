@@ -1,6 +1,9 @@
-# Face Mask Detection Using Tensorflow,Keras,Opencv & Python.
-# For Video Tutorial With Full Explanation 
-# Go This Link:
-
-https://youtube.com/playlist?list=PLWyN7K28ZraTtKR397zW8f03LVcEre732
-
+# 
+In questo repository sono contenuti i file per
+- **dataCollector.py**
+- **maskDetectionv2.ipynb**
+- **test.py**
+- **haarcascade_frontalface_default.xml**
+- **test.py**
+- **MyTrainingmodel.h5**
+- **images.zip**
