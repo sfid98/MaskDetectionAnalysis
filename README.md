@@ -1,4 +1,4 @@
-# 
+# Riconoscimento Mascherina
 In questo repository sono contenuti i file utilizzati per il training e la sperimentazione di un modello in grado di riconoscere la presenza della mascherina. Il procedimento è tratto dal seguente repository: https://github.com/Chando0185/Face_Mask_Detection?ref=morioh.com&utm_source=morioh.com
 - **dataCollector.py**: File python per la raccolta delle immagini.
 - **maskDetectionv2.ipynb**: Training su Google Colab
